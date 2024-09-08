@@ -12,7 +12,6 @@ public class Divisibilidad {
         // Verificar divisibilidad por 5
         boolean divisiblePor5 = (a % 5 == 0);
 
-        // Mostrar el resultado
         System.out.println(a + " es divisible por 2: " + divisiblePor2);
         System.out.println(a + " es divisible por 3: " + divisiblePor3);
         System.out.println(a + " es divisible por 5: " + divisiblePor5);

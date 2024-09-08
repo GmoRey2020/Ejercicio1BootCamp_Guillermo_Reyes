@@ -11,7 +11,6 @@ public class FactorialUnNumero {
             factorial *= i; // Multiplica el valor actual de factorial por i
         }
 
-        // Mostrar el resultado
         System.out.println("El factorial de " + a + " es: " + factorial);
     }
 }
