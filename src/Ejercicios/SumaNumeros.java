@@ -1,7 +1,5 @@
 package Ejercicios;
-
 import java.util.Scanner;
-
 public class SumaNumeros {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -4,7 +4,6 @@ public class NumerosPrimos {
     public static void main(String[] args) {
         // Declaración e inicialización de la variable
         int a = 29;
-
         // Llamada al método que verifica si el número es primo
         if (esPrimo(a)) {
             System.out.println(a + " es un número primo.");

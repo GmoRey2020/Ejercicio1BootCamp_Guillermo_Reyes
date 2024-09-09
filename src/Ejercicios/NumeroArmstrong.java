@@ -19,7 +19,6 @@ public class NumeroArmstrong {
             int valorDigito = Character.getNumericValue(digito);
             suma += Math.pow(valorDigito, cantidadDigitos);
         }
-
         // Verificar si la suma es igual al número original
         if (suma == a) {
             System.out.println(a + " es un número Armstrong.");

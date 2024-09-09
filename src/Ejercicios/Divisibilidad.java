@@ -4,7 +4,6 @@ public class Divisibilidad {
     public static void main(String[] args) {
         // Declaración e inicialización de la variable
         int a = 45;
-
         // Verificar divisibilidad por 2
         boolean divisiblePor2 = (a % 2 == 0);
         // Verificar divisibilidad por 3

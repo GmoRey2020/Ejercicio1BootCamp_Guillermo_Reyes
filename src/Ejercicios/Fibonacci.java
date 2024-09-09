@@ -27,7 +27,6 @@ public class Fibonacci {
             a = b; // Desplazar a b a a
             b = siguiente; // Desplazar siguiente a b
         }
-
         System.out.println(); // Nueva línea después de imprimir la secuencia
     }
 }

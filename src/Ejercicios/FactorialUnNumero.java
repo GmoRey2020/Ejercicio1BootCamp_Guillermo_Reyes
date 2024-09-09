@@ -10,7 +10,6 @@ public class FactorialUnNumero {
         for (int i = 1; i <= a; i++) {
             factorial *= i; // Multiplica el valor actual de factorial por i
         }
-
         System.out.println("El factorial de " + a + " es: " + factorial);
     }
 }

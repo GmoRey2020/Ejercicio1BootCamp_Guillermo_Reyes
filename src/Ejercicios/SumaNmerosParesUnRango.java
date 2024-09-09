@@ -5,7 +5,6 @@ public class SumaNmerosParesUnRango {
         // Declaración e inicialización de las variables
         int a = 1;
         int b = 100;
-
         // Inicializar la variable para almacenar la suma de los números pares
         int suma = 0;
 

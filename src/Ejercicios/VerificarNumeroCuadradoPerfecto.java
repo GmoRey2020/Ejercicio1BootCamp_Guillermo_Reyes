@@ -15,7 +15,6 @@ public class VerificarNumeroCuadradoPerfecto {
             System.out.println(a + " no es un cuadrado perfecto.");
         }
     }
-
     // Método para verificar si un número es un cuadrado perfecto
     public static boolean esCuadradoPerfecto(int num) {
         if (num < 0) {
